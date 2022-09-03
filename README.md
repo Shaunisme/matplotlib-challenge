@@ -1,7 +1,14 @@
 # Unit 5 Homework: The Power of Plots
+In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
 
+## Observations
+#### First
+Beyond the box plot of "Final Tumour Volume (mm3) by Different Treament", the Capomulin and Ramicane are the ___best___ treament regimen at this reserach. They make the mouse's tumour volume smaller than other else.
+#### Second
+According the line chart of "Tumour Volume of Mouse Treated with Capomulinn", with following the time point progressing, Capomulin can ___reduce___ the tumour volume markedly.
 What good is data without a good plot to tell the story?
-
+#### Third
+Observating "Mouse Weight And Average Tumour Volume Correlation and Regression of Capomulin", We can get an inference that mouse weight and average tumour volume has ___high correlation___.
 In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
 
 ## Background
